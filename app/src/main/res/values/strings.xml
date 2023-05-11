@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GrowPro0.1</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="buscar">Buscar</string>
+    <string name="verTodo">Ver Todo</string>
+    <string name="novedades">Novedades</string>
+    <string name="arboles">Arboles</string>
+    <string name="acceder">Acceder</string>
+    <string name="texto4">Inicio Sesión para continuar</string>
+    <string name="clave">Clave</string>
+    <string name="correo">Correo</string>
+    <string name="texto7">Crea una nueva cuenta</string>
+    <string name="texto8">Ya te has registrado</string>
+    <string name="ingresaqui">  Ingresa aquí </string>
+    <string name="texto9">Nombre</string>
+    <string name="texto12">Fecha de Nacimiento</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="psswrdCorta">La clave debe tener como mínimo  8 carácteres </string>
+    <string name="registrar">¿No tienes cuenta? .Registrarse </string>
+    <string name="inciando">Iniciando sesión ..</string>
+    <string name="UsuarioNoRegistrado">Usuario no registrado</string>
+    <string name="camposObligatoriosMessg">Por favor, ingrese un Email y una clave</string>
+     <string name="nombreCompleto">Nombre Completo</string>
+    <string name="registrando">Registrando</string>
+</resources>
